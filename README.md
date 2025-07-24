@@ -48,7 +48,7 @@ The BiLSTM model achieved the highest performance across all evaluation metrics,
 
 ---
 
-## 💾 Model Saving
+## Model Saving
 
 - Logistic Regression and Random Forest models were serialized using `joblib`
 - The BiLSTM model was saved as a `.h5` file using Keras
