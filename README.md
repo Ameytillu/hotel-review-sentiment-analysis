@@ -2,6 +2,8 @@
 
 This project presents a comparative analysis of sentiment classification techniques applied to hotel customer reviews. The goal is to classify reviews as **positive** or **negative** using three different models: Logistic Regression, Random Forest, and Bidirectional LSTM (BiLSTM). I wanted to learn and understand how accuracy differes from model to model and how SMOTE (Synthetic Minority Oversampling Technique) can be used in imbalanced datasets. 
 
+Dataset downloaded from Kaggle- https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+
 
 ---
 
